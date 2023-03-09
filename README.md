@@ -21,7 +21,7 @@ The solution implements a depth first search with a binary heap minimum priority
 
 
 Usage commands -   
-1. Read a map and print information: java RoadMap -i <MapFile>");
-2. Read a map and find shortest path between two vertices with charging stations: java RoadMap -s <MapFile> <StartVertexIndex> <EndVertexIndex>");
+1. Read a map and print information: java RoadMap -i <MapFile>
+2. Read a map and find shortest path between two vertices with charging stations: java RoadMap -s <MapFile> <StartVertexIndex> <EndVertexIndex>
 
 Two sample map files are provided in the repository. 
